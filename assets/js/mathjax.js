@@ -1,4 +1,5 @@
 window.MathJax = {
+  config: ["MMLorHTML.js"],
   extensions: ['tex2jax.js'],
   jax: ['input/TeX'],
   tex2jax: {
